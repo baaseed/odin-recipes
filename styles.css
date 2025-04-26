@@ -27,5 +27,10 @@ div p {
   background-color: green;
 }
 div h2 {
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 4px;
+  text-align: center;
+  padding: 8px;
   background-color: yellow;
 }
