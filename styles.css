@@ -17,7 +17,7 @@ a:focus {
 }
 div {
   margin-left: 10px;
-  background-color: aqua;
+
   padding: 2px;
   margin: 6px;
   margin-left: 11px;
@@ -25,6 +25,7 @@ div {
 }
 div p {
   background-color: green;
+  text-align: center;
 }
 div h2 {
   max-width: 500px;
@@ -33,4 +34,13 @@ div h2 {
   text-align: center;
   padding: 8px;
   background-color: yellow;
+}
+div img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+div h1 {
+  text-align: center;
 }
