@@ -1,0 +1,17 @@
+* {
+  margin: 6px;
+  padding: 4px 6px;
+  box-sizing: border-box;
+  font-family: "Courier New", monospace;
+  background-color: rgb(139, 182, 182);
+}
+
+a {
+  color: white;
+}
+a:hover {
+  color: black;
+}
+a:focus {
+  color: blue;
+}
