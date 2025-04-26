@@ -15,3 +15,17 @@ a:hover {
 a:focus {
   color: blue;
 }
+div {
+  margin-left: 10px;
+  background-color: aqua;
+  padding: 2px;
+  margin: 6px;
+  margin-left: 11px;
+  border: solid 2px black;
+}
+div p {
+  background-color: green;
+}
+div h2 {
+  background-color: yellow;
+}
